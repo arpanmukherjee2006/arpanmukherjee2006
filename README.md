@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Arpan Mukherjee</h1>
 <h3 align="center">A PASSIONATE FRONTEND DEVELOPER FROM INDIA. I AM A SCHOOL STUDENT AND A FRONT-END WEB DEVELOPER, PROFICIENT IN HTML , CSS, BOOTSTRAP AND HAVE GOOD KNOWLEDGE OF JAVASCRIPT . I AM ALSO GOOD WEB DESIGNING, LOGO DESIGNING, GRAPHIC DESIGNING AND SOCIAL MEDIA POST DESIGNING. I AM A DREAMER WHOSE DREAM IS TO BUILD AWESOME THINGS IN THE FUTURE AND TO CONTRIBUTE SOMETHING USEFUL TO THE WORLD.</h3>
-<img align="right" alt="Coding" width="400" src="[https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif](https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format)">
+<img align="right" alt="Coding" width="400" src="[https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format)">
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpanmukherjee2006&label=Profile%20views&color=0e75b6&style=flat" alt="arpanmukherjee2006" /> </p>
 
